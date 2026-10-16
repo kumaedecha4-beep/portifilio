@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This project is a reflection of my jou
 ## 🌟 Live Demo
 
 You can view the live website here:  
-👉 **[https://birru2217.github.io/portfolio/](https://birru2217.github.io/portfolio/)**
+👉 **[https://kumaedecha4-beep.github.io/portfolio/](https://kumaedecha4-beep.github.io/portifilio)**
 
 ---
 
